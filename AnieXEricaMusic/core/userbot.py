@@ -161,7 +161,7 @@ class Userbot(Client):
                 await self.two.join_chat("BTSChinna")
                 await self.two.join_chat("BTSChinna")
                 await self.two.join_chat("BTSChinna")
-                await self.two.join_chat("BTSChinna
+                await self.two.join_chat("BTSChinna")
             except:
                 pass
             assistants.append(5)
