@@ -51,13 +51,13 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("AmBotYT")
-                await self.one.join_chat("AM_YTSupport")
-                await self.one.join_chat("AbhiModszYT_Return")
-                await self.one.join_chat("TGGojoSatoRu")
-                await self.one.join_chat("SuperBanSBots")
-                await self.one.join_chat("About_AMBot")
-                await self.one.join_chat("TeamSuperBan")
+                await self.one.join_chat("BTSChinna")
+                await self.one.join_chat("BTSChinna")
+                await self.one.join_chat("BTSChinna")
+                await self.one.join_chat("BTSChinna")
+                await self.one.join_chat("BTSChinna")
+                await self.one.join_chat("BTSChinna")
+                await self.one.join_chat("BTSChinna")
             except:
                 pass
             assistants.append(1)
@@ -77,13 +77,13 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("AmBotYT")
-                await self.two.join_chat("AM_YTSupport")
-                await self.two.join_chat("AbhiModszYT_Return")
-                await self.two.join_chat("TGGojoSatoRu")
-                await self.two.join_chat("SuperBanSBots")
-                await self.two.join_chat("About_AMBot")
-                await self.two.join_chat("TeamSuperBan")
+                await self.two.join_chat("BTSChinna")
+                await self.two.join_chat("BTSChinna")
+                await self.two.join_chat("BTSChinna")
+                await self.two.join_chat("BTSChinna")
+                await self.two.join_chat("BTSChinna")
+                await self.two.join_chat("BTSChinna")
+                await self.two.join_chat("BTSChinna")
             except:
                 pass
             assistants.append(2)
